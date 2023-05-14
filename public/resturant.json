@@ -1,0 +1,41 @@
+[
+    {
+        "image": "https://media.istockphoto.com/id/1334022358/photo/fun-lunch-gathering.jpg?b=1&s=170667a&w=0&k=20&c=95ZVThBr-UYVAUleM1z4pwUEfYkElxdnpmS5SZs9tFA=",
+        "name": "Golden Dragon",
+        "description": "Golden Dragon is a family-owned Chinese restaurant that has been serving the community for over 30 years. Our menu features classic Chinese dishes as well as some unique creations. Come dine with us and experience our warm hospitality and delicious food!",
+        "foodPackage": [
+            "Egg Drop Soup",
+            "Kung Pao Chicken",
+            "Beef with Broccoli",
+            "Fried Rice"
+        ]
+        ,
+        "boof":"70$"
+    },
+    {
+        "image": "https://media.istockphoto.com/id/684876642/photo/dining-in-a-chinese-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=vMvWY_dHhXbO-Is5XtEa9DoVmzMXo0BS7oHmUCus4ak=",
+        "name": "Lucky Wok",
+        "description": "Lucky Wok is a popular Chinese restaurant known for our generous portions and affordable prices. Our menu includes all your favorite Chinese dishes, from General Tso's Chicken to Shrimp Lo Mein. Stop by and see why our customers keep coming back!",
+        "foodPackage": [
+            "Hot and Sour Soup",
+            "General Tso's Chicken",
+            "Shrimp Lo Mein",
+            "Steamed Rice"
+        ]
+        ,
+        "boof":"60$"
+    },
+    {
+        "image": "https://media.istockphoto.com/id/907599852/photo/traditional-chinese-restaurant-setting.jpg?b=1&s=170667a&w=0&k=20&c=AsHVQ0ZfshwPJv9BeieASpvdTqFw6vs4tiEgNGtG_GI=",
+        "name": "Jade Palace",
+        "description": "Jade Palace is an upscale Chinese restaurant that combines traditional Chinese cuisine with modern culinary techniques. Our menu features creative dishes such as Lobster and Scallop Dumplings and Crispy Duck with Mandarin Pancakes. Come indulge in an unforgettable dining experience!",
+        "foodPackage": [
+            "Lobster and Scallop Dumplings",
+            "Crispy Duck with Mandarin Pancakes",
+            "Wok-Fried Prawns with XO Sauce",
+            "Yangzhou Fried Rice"
+        ]
+        ,
+        "boof":"90$"
+    }
+]
